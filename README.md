@@ -56,4 +56,4 @@ Here's a data dictionary for the key columns in our dataset:
 ## Data Dictionary
 For detailed descriptions of each dataset column, refer to the `Movie+Assignment+Data+Dictionary`.
 
-Join us on this exciting cinematic data adventure, and let's uncover the stories behind the numbers together! 🎥📊
+Join us on this exciting cinematic data adventure, and let's uncover the stories behind the numbers together!  🎥📊
